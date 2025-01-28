@@ -46,9 +46,6 @@ This bot uses the Geoapify API for location-based searches. While it provides go
 - \`haversine.js\`: Function to calculate distance between two geographical points
 - \`.env\`: Environment variables (not included in the repository)
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/uncisal-restaurantes-bot/issues) if you want to contribute.
-
 ## 📄 License
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
